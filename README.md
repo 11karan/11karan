@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @11karan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me @kr._karan.singh at instagram
 - 😄 Pronouns: ...
